@@ -68,7 +68,7 @@ that come with the PowerShell extension.
 You can open the command palette by pressing <kbd>F1</kbd> or <kbd>Ctrl+Shift+P</kbd>
 (<kbd>Cmd+Shift+P</kbd> on macOS).  You'll be presented with this UI:
 
-**TODO: Image**
+![**Command Palette**](../images/Commandpalette.png)
 
 Once you've typed enough to see the command you're looking for, you can use the arrow
 keys to navigate the filtered command list.  When you've got the desired command selected
